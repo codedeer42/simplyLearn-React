@@ -13,7 +13,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-         <Header title="Überschrift" name="Peter"/>
+         <Header title="Überschrift"/>
     </div>
   );
 }
